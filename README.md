@@ -21,6 +21,7 @@ Pull the new image.
 Replace the running container.
 
 Serve the application on port 80.
+deploying train app in different machine 
 
 
 ## Running the app
