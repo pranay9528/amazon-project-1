@@ -27,6 +27,7 @@ debugging errors
 updated user name
 updated .pem file
 updated key
+error with .pem file
 ## Running the app
 
 You need a Java JDK 7 or later to run the build. You can run the build like this:
